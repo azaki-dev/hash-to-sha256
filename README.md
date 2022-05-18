@@ -1,4 +1,4 @@
-# Hash to SHA256
+# SHA256 of Hash
 
 Get SHA-256 from file hash in VirusTotal API.
 
